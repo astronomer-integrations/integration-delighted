@@ -36,7 +36,7 @@
         "jscs": "1.x",
         "merge-util": "^0.1.0",
         "mocha": "2.x",
-        "ms": "0.x",
+        "ms": "^0.7.1",
         "segmentio-facade": "2.x",
         "segmentio-integration-tester": "2.x",
         "should": "^4.3.0",
