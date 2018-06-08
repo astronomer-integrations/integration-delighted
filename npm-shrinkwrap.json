@@ -1600,9 +1600,10 @@
       }
     },
     "ms": {
-      "version": "0.6.2",
-      "resolved": "https://registry.npmjs.org/ms/-/ms-0.7.1.tgz",
-      "integrity": "sha1-2JwhJMb9wTU9Zai3e/GqxLGTcIw="
+      "version": "0.7.3",
+      "resolved": "https://registry.npmjs.org/ms/-/ms-0.7.3.tgz",
+      "integrity": "sha1-cIFVpeROM/X9D8U+gdDUCpG+H/8=",
+      "dev": true
     },
     "mute-stream": {
       "version": "0.0.5",
@@ -1968,7 +1969,6 @@
         "debug": "~0.7.4",
         "lodash": "^4.16.0",
         "methods": "0.0.1",
-        "ms": "~0.6.2",
         "superagent": "^2.2.0",
         "to-no-case": "^0.1.2",
         "type": "git://github.com/segmentio/type.git#06dc28f194cbbcce1f2a9fef4291c6974c16fd6e",
@@ -2007,6 +2007,12 @@
           "version": "3.2.1",
           "resolved": "https://registry.npmjs.org/is/-/is-3.2.1.tgz",
           "integrity": "sha1-0Kwq1V63sL7JJqUmb2xmKqqD3KU=",
+          "dev": true
+        },
+        "ms": {
+          "version": "0.6.2",
+          "resolved": "https://registry.npmjs.org/ms/-/ms-0.6.2.tgz",
+          "integrity": "sha1-2JwhJMb9wTU9Zai3e/GqxLGTcIw=",
           "dev": true
         },
         "new-date": {
