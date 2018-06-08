@@ -35,7 +35,7 @@
         "istanbul": "0.x",
         "jscs": "1.x",
         "merge-util": "^0.1.0",
-        "mocha": "2.x",
+        "mocha": "^5.2.0",
         "ms": "^0.7.1",
         "segmentio-facade": "2.x",
         "segmentio-integration-tester": "2.x",
