@@ -33,7 +33,7 @@
         "eslint-plugin-react": "^4.3.0",
         "eslint-plugin-require-path-exists": "^1.1.5",
         "istanbul": "0.x",
-        "jscs": "1.x",
+        "jscs": "^3.0.7",
         "merge-util": "^0.1.0",
         "mocha": "^5.2.0",
         "ms": "^0.7.1",
